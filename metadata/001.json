@@ -1,0 +1,19 @@
+{
+  "name": "Neon Aeterna #001 — The Abyssal Archivist",
+  "description": "In a drowned library beyond the reach of daylight, an oracle tends the memories of the deep. Part of Neon Aeterna, a six-piece AI-generated science-fantasy art collection.",
+  "image": "ipfs://bafybeiedzbfybsjbsxbmeld6ilmz6qtaamu33ok5dt3zq3qnde55agjite/001.png",
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Oracle"
+    },
+    {
+      "trait_type": "Realm",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Bioluminescent Coral"
+    }
+  ]
+}
